@@ -72,7 +72,7 @@ const subtract = () => {
     return secondNum - firstNum
 }
 const divide = () => {
-    return secondNum - firstNum
+    return secondNum / firstNum
 }
 const multiply = () => {
     return firstNum * secondNum
